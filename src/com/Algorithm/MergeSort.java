@@ -3,7 +3,7 @@ package com.Algorithm;
 public class MergeSort {
 
 		public static void main(String[] args) {
-	        String[] array = {"Dellhi", "Mumbai", "Haydrabad", "Tripura", "Agartalla",
+	        String[] array = {"Delhi", "Mumbai", "Haydrabad", "Tripura", "Agartalla",
 	                "Kolkata", "Assam"};
 
 	        String[] sortedArray = mergeSort(array);
